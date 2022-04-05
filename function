@@ -1,0 +1,17 @@
+
+newoper(MINUS, -,  45)
+
+newoper(PLUS,  +,  43)
+newoper(MUL,   *,  42)
+newoper(DEGREE,^,  94)
+newoper(DIV,   /,  47)
+
+newfun(tg,  1)
+newfun(ctg, 2)
+newfun(sin, 3)
+newfun(cos, 4)
+
+newfun(sh, 5)
+newfun(ch, 6)
+
+newfun(ln, 7)
