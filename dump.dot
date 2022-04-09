@@ -1,6 +1,0 @@
-digraph G{
- size="100" node [shape = record, fontname = Arial];
-    elem000002427ce71550[label = " {cos} "];
-edge [color = green];
-elem000002427ce71550 -> elem000002427ce71500;elem000002427ce71500[label = " {x} "];
-}
