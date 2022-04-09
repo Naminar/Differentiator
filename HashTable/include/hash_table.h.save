@@ -1,0 +1,12 @@
+
+#include "../ListPtr/list_ptr.h"
+
+const size_t NULL_HASH = 0xdd233d4;
+const size_t BIT_SHIFT = CHAR_BIT * (sizeof(size_t) - 1);
+const size_t NUM_TABLE = 1;
+
+void   do_hash_table    (const char* inp_file);
+void   processing_data  (const char* inp_file, Tree* list_union);
+void   add_new_word     (const char* word, Tree* tree_union);
+void   all_list_init    (Tree*  tree_union);
+size_t DragonHash       (const char* word);

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Stack\stack.h" open="0" top="0" tabpos="9">
+		<Cursor position="180" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\database.h" open="1" top="0" tabpos="5">
+		<Cursor position="671" topLine="0" />
+		<BrowseMarks positions="84,198,307,423,504,563,623,857,935" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\differentiator.h" open="1" top="0" tabpos="0">
+		<Cursor position="165" topLine="0" />
+		<BrowseMarks positions="331" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="function" open="1" top="0" tabpos="8">
+		<Cursor position="18" topLine="0" />
+		<BrowseMarks positions="0,2,26,50,74,140,156,190,205,222" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\tree.h" open="1" top="0" tabpos="4">
+		<Cursor position="339" topLine="9" />
+		<BrowseMarks positions="0,19,174,197,332,362,381,403,491,532,554,650,727,748,794,796,855,1184" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="source\database.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="1719" topLine="81" />
+		<BrowseMarks positions="14585,14874,14957,15116,15291,15375,15478,13425,13525,13540,13628,13788,13842,13894,13931,13944,14072,14087,14246,14542" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="source\differentiator.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="131" topLine="0" />
+		<BrowseMarks positions="661,159,180,203,207,266,270,300,339,401,431,433,464,466,470,500,539,599,601,631" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="source\tree.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="545" topLine="0" />
+		<BrowseMarks positions="550,301" />
+		<Book_Marks positions="582,582" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="78" topLine="0" />
+		<BrowseMarks positions="59" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\config.h" open="0" top="0" tabpos="7">
+		<Cursor position="320" topLine="0" />
+		<BrowseMarks positions="103" />
+		<Book_Marks positions="" />
+	</File>
+</BrowseTracker_layout_file>

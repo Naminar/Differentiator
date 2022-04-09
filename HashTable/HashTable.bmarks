@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="ListPtr\list_ptr.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1609" topLine="0" />
+		<BrowseMarks positions="27,172,206,208,229,505,602,666,701,883,1609,1701,1896,1898,2021,2638,4471,4656,4913" />
+	</File>
+	<File name="include\hash_table.h" open="1" top="0" tabpos="3">
+		<Cursor position="517" topLine="0" />
+		<BrowseMarks positions="38,116,190,192,480" />
+	</File>
+	<File name="ListPtr\list_ptr.h" open="1" top="0" tabpos="5">
+		<Cursor position="835" topLine="30" />
+		<BrowseMarks positions="36,141,215,333,386,415,467,670" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="241" topLine="0" />
+		<BrowseMarks positions="116,141,183,200,207,258,295,302,304,322" />
+		<Book_Marks positions="300,205,322" />
+	</File>
+	<File name="source\hash_table.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="23" topLine="0" />
+		<BrowseMarks positions="3245,4438,4682,361,2142,2227,2369,2488,2555,2560,2630,2680,2741,2829,2858,2968,3005,3061,3127,3179" />
+	</File>
+</BrowseTracker_layout_file>

@@ -1,0 +1,30 @@
+digraph G{
+ size="100" node [shape = record, fontname = Arial];
+    elem0000023769b65bb0[label = " { * } "];
+edge [color = red];
+elem0000023769b65bb0 -> elem0000023769b616e0;edge [color = green];
+elem0000023769b65bb0 -> elem0000023769b65a60;elem0000023769b616e0[label = " {/} "];
+edge [color = red];
+elem0000023769b616e0 -> elem0000023769b615a0;edge [color = green];
+elem0000023769b616e0 -> elem0000023769b615f0;elem0000023769b615a0[label = " {1} "];
+elem0000023769b615f0[label = " {cos} "];
+edge [color = green];
+elem0000023769b615f0 -> elem0000023769b61640;elem0000023769b61640[label = " {sh} "];
+edge [color = green];
+elem0000023769b61640 -> elem0000023769b61690;elem0000023769b61690[label = " {x} "];
+elem0000023769b65a60[label = " { * } "];
+edge [color = red];
+elem0000023769b65a60 -> elem0000023769b61870;edge [color = green];
+elem0000023769b65a60 -> elem0000023769b61910;elem0000023769b61870[label = " { * } "];
+edge [color = red];
+elem0000023769b61870 -> elem0000023769b61730;edge [color = green];
+elem0000023769b61870 -> elem0000023769b61820;elem0000023769b61730[label = " {-1} "];
+elem0000023769b61820[label = " {sin} "];
+edge [color = green];
+elem0000023769b61820 -> elem0000023769b61780;elem0000023769b61780[label = " {sh} "];
+edge [color = green];
+elem0000023769b61780 -> elem0000023769b617d0;elem0000023769b617d0[label = " {x} "];
+elem0000023769b61910[label = " {ch} "];
+edge [color = green];
+elem0000023769b61910 -> elem0000023769b618c0;elem0000023769b618c0[label = " {x} "];
+}
