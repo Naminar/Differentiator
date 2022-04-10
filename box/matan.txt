@@ -1,0 +1,60 @@
+The last two theorems show that the differentiability of a function at point x0 and the existence of a derivative f(x0)
+are equivalent conditions and that each of them
+is stronger than the continuity condition of the function at point x0.
+The proved theorem shows that the tangent in
+the vicinity of the tangent point is located "closer" to the graph of the function than other straight lines.
+The previously considered tangent with a finite angular coefficient f0
+(x0) is often called an inclined tangent. Prove it as an exercise.
+Similarly, you can continue the function ϕ if it
+it is set only in a half-cross. After possible additional definitions of the functions f, ϕ in this way, it remains only
+to apply Theorem 1 to them.
+If a function f is such that its derivative f0
+exists on some neighborhood U(x0) of a point x0, then its differential df(x)=0(x)dx, x∈U(x0).
+The last formula for n>2 (as opposed to n=1) is true
+only if x is an independent variable. We show this in the case of n=2. Let's find the expression of the second differential, assuming
+that the function y = f(x) is twice differentiable at the point x0, and its argument x is twice.
+Derivatives and differentials of higher orders
+differentiable function x = x(t) some independent variable t.
+Lagrange's theorem is a special case of the theorem
+Cauchy when g(x)=x.
+
+The textbook corresponds to the program of the 1st year
+MIPT and contains the theory of limits, differential calculus of functions of one and several variables, integral calculus of functions of one variable, numerical
+and functional series and other topics. It is written on
+the basis of lectures given for many years at MIPT
+by the author (Professor at MIPT, Corresponding Member of the Russian Academy of Sciences,
+Head of the Department of Theory of Functions
+of the Steklov Mathematical Institute of the Russian Academy of Sciences).
+It is intended for students of physical-mathematical and
+engineering-physical specialties of universities with advanced
+training in mathematics.
+This textbook is written on the basis
+of the author's lectures given to first-year students of the Moscow
+Institute of Physics and Technology.
+The author thanks Professors B.I. Golubov and S.A. Telyakovsky, who read the manuscript and made a number of valuable comments that contributed to its improvement, as well
+as A.V. Polozov, an employee of the department, who took on the hard work of preparing the manuscript for publication.
+
+It provides an accessible and fairly complete exposition of the main
+sections of modern mathematical logic and many of its applications for the novice reader. Along with sections such as propositional logic, predicate calculus,
+formal arithmetic and algorithm theory, it also covers
+model theory and axiomatic set theory, which are absent from the book, which has served until now
+the most complete manual on mathematical logic. It should be noted, however, that unlike Book X, this book essentially does not touch on the intuitionistic and constructive directions of mathematical
+logic.The presentation of the material in the book is clear and concise. The main text
+is interspersed with a large number of examples and exercises. In the exercises, the author
+also brought out some results, which are then used in the main text.
+This, along with the conciseness of the presentation, contributed to reducing the size of the book with a very extensive content.
+
+Considering Theorem 2, we come to the conclusion that every nonempty numerical set has both upper and lower faces in the expanded set of real numbers |R.
+
+There is at least one common
+point for the segments of the system under
+consideration by virtue of Theorem 1. We show that there is no more
+than one common point.
+Two of the logical consequences indicated in the diagram
+have already been established, the other two are proposed to prove to the reader as an exercise.
+
+The manual consists of eight chapters and contains a detailed presentation
+of the course of lectures given by the author to first-year students of MIPT. A large number of examples illustrating the theoretical
+material have been analyzed. A list of exercises for independent work is attached to each chapter.
+It is intended for students of physics and mathematics and engineering physics majors studying mathematical analysis, as well
+as for teachers conducting classes in mathematical analysis.
