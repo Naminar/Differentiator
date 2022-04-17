@@ -1,5 +1,5 @@
 # Differentiator
-## How to use it [Managed Disks](#WARNING:)
+## How to use it
 Inside the program you can choose the way (from console or file) to enter your function.
 ### WARNING:
 You have to follow the correct bracket sequence.
