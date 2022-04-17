@@ -19,6 +19,7 @@ Inside the program you can choose the way (from console or file) to enter your f
 You have to follow the correct bracket sequence. Spaces are optional.
 For example:
 ```
+x
 (x)*(2)
 (x)^(ln(x))
 (sin(sh(cos(x))))  *  (2)
