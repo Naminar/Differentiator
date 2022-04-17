@@ -23,6 +23,7 @@ For example:
 (x)*(2)
 (x)^(ln(x))
 (sin(sh(cos(x))))  *  (2)
+(sh(ch(1.23))) ^ (ln(3.67))
 (ln(x)) + (tg(ctg(x)))
 ```
 
