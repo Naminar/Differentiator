@@ -1,0 +1,939 @@
+Table number 0
+{
+  monstrous - 1 -> power
+}
+
+Table number 5
+{
+  notices. - 2 -> The -> Some
+}
+
+Table number 12
+{
+  occur - 1 -> to
+}
+
+Table number 15
+{
+  walk, - 1 -> alternately
+}
+
+Table number 28
+{
+  Nothing - 1 -> is
+}
+
+Table number 37
+{
+  function. - 1
+}
+
+Table number 43
+{
+  machine - 1 -> that
+}
+
+Table number 45
+{
+  attention - 1 -> of
+}
+
+Table number 53
+{
+  processes - 1 -> petrovich
+}
+
+Table number 59
+{
+  drummer, - 1 -> that's
+}
+
+Table number 60
+{
+  nothing - 1 -> more
+}
+
+Table number 61
+{
+  go - 1 -> to
+  amazed - 1 -> that
+}
+
+Table number 62
+{
+  if - 1 -> something
+}
+
+Table number 80
+{
+  applied - 1 -> to
+}
+
+Table number 81
+{
+  me - 1 -> to
+}
+
+Table number 87
+{
+  obviously - 1 -> a
+}
+
+Table number 90
+{
+  it - 4 -> doesn't -> difficult -> wrong, -> thanks
+}
+
+Table number 103
+{
+  many - 1 -> people.
+}
+
+Table number 107
+{
+  than - 2 -> an -> too
+}
+
+Table number 121
+{
+  that - 6 -> no -> you -> no -> it -> can -> processes
+}
+
+Table number 123
+{
+  collection - 1 -> of
+}
+
+Table number 125
+{
+  poet - 1 -> should
+}
+
+Table number 128
+{
+  legs, - 1 -> put
+}
+
+Table number 129
+{
+  light - 1 -> is
+}
+
+Table number 131
+{
+  c, - 1 -> and,
+}
+
+Table number 150
+{
+  anything! - 1 -> A
+}
+
+Table number 167
+{
+  alternately - 1 -> rearranging
+}
+
+Table number 171
+{
+  we - 3 -> really -> know -> know
+}
+
+Table number 178
+{
+  after - 1 -> all:
+}
+
+Table number 179
+{
+  at - 2 -> the -> night.
+}
+
+Table number 187
+{
+  that's - 1 -> why
+}
+
+Table number 188
+{
+  No - 1 -> one
+}
+
+Table number 191
+{
+  Mathematics - 2 -> is -> is
+}
+
+Table number 192
+{
+  something, - 2 -> all -> we
+}
+
+Table number 202
+{
+  power - 1 -> and
+}
+
+Table number 212
+{
+  function - 1 -> and
+}
+
+Table number 233
+{
+  There - 1 -> is
+}
+
+Table number 236
+{
+  petrovich - 1 -> into
+}
+
+Table number 238
+{
+  obscure - 1 -> than
+}
+
+Table number 248
+{
+  always - 1 -> prevail
+}
+
+Table number 265
+{
+  so - 2 -> obvious -> in
+}
+
+Table number 269
+{
+  rearranging - 1 -> your
+}
+
+Table number 275
+{
+  bookstores - 1 -> at
+}
+
+Table number 288
+{
+  by - 2 -> all -> the
+}
+
+Table number 297
+{
+  beginning. - 1 -> The
+}
+
+Table number 304
+{
+  prevail - 1 -> in
+}
+
+Table number 313
+{
+  solved - 1 -> in
+}
+
+Table number 314
+{
+  doesn't - 1 -> occur
+}
+
+Table number 315
+{
+  below, - 1 -> you
+}
+
+Table number 318
+{
+  looks - 1 -> obvious!
+}
+
+Table number 322
+{
+  doing - 1 -> it
+}
+
+Table number 331
+{
+  escapes - 1 -> the
+}
+
+Table number 346
+{
+  People - 1 -> are
+}
+
+Table number 362
+{
+  compared - 1 -> to
+}
+
+Table number 364
+{
+  talking - 1 -> about
+}
+
+Table number 370
+{
+  rarely - 1 -> true.
+}
+
+Table number 374
+{
+  fact. - 1 -> Nothing
+}
+
+Table number 375
+{
+  thanks - 1 -> to
+}
+
+Table number 376
+{
+  creatures - 1 -> who
+}
+
+Table number 377
+{
+  Solving - 1 -> a
+}
+
+Table number 389
+{
+  deceptive - 1 -> than
+}
+
+Table number 396
+{
+  numerical - 1 -> series.
+}
+
+Table number 419
+{
+  mathematician - 2 -> should -> is
+}
+
+Table number 443
+{
+  theorem - 1 -> here!
+}
+
+Table number 444
+{
+  ability - 1 -> to
+}
+
+Table number 460
+{
+  person, - 1 -> and
+}
+
+Table number 470
+{
+  highest - 1 -> of
+}
+
+Table number 474
+{
+  that. - 2 -> The -> I'm
+}
+
+Table number 479
+{
+  series. - 1 -> The
+}
+
+Table number 490
+{
+  earth - 1 -> is
+}
+
+Table number 492
+{
+  children, - 1 -> go
+}
+
+Table number 493
+{
+  result. - 1 -> If
+}
+
+Table number 494
+{
+  mathematical - 2 -> theorem -> problem
+}
+
+Table number 502
+{
+  really - 1 -> know
+}
+
+Table number 516
+{
+  taking - 1 -> a
+}
+
+Table number 525
+{
+  therefore. - 2 -> No -> A
+}
+
+Table number 528
+{
+  humanity - 1 -> after
+}
+
+Table number 530
+{
+  everything - 1 -> from
+}
+
+Table number 534
+{
+  wrong, - 1 -> therefore.
+}
+
+Table number 536
+{
+  about - 1 -> the
+}
+
+Table number 540
+{
+  believe - 2 -> your -> in
+}
+
+Table number 541
+{
+  barabanshchikov, - 1 -> therefore.
+}
+
+Table number 552
+{
+  discuss - 1 -> them
+  are - 4 -> amazed -> very -> doing -> solved
+}
+
+Table number 553
+{
+  obvious, - 1 -> so
+}
+
+Table number 555
+{
+  derivative, - 1 -> well,
+}
+
+Table number 561
+{
+  spoken - 1 -> by
+}
+
+Table number 571
+{
+  maybe - 1 -> also
+}
+
+Table number 572
+{
+  no - 2 -> one -> one
+}
+
+Table number 573
+{
+  night. - 1 -> The
+}
+
+Table number 581
+{
+  An - 1 -> amazing
+}
+
+Table number 588
+{
+  matter. - 1 -> Mathematics
+}
+
+Table number 591
+{
+  derivative! - 1 -> The
+}
+
+Table number 594
+{
+  obvious! - 1 -> It
+}
+
+Table number 597
+{
+  something - 1 -> seems
+}
+
+Table number 612
+{
+  also - 1 -> a
+}
+
+Table number 613
+{
+  I'm - 1 -> talking
+}
+
+Table number 627
+{
+  and, - 1 -> by
+}
+
+Table number 636
+{
+  strange - 1 -> creatures
+}
+
+Table number 643
+{
+  And - 1 -> a
+}
+
+Table number 649
+{
+  simple, - 1 -> then
+}
+
+Table number 652
+{
+  hints - 1 -> instantly
+}
+
+Table number 659
+{
+  is - 14 -> nothing -> more -> full -> rarely -> full -> from -> from -> quite -> obviously -> a -> a -> the -> the -> a
+}
+
+Table number 668
+{
+  did - 1 -> not
+}
+
+Table number 675
+{
+  and - 7 -> not -> you -> will -> the -> a -> matter. -> programmers
+}
+
+Table number 677
+{
+  quite - 1 -> obvious
+}
+
+Table number 681
+{
+  Evidence - 1 -> mediates
+}
+
+Table number 682
+{
+  above, - 1 -> the
+}
+
+Table number 689
+{
+  all - 2 -> the -> derivatives
+}
+
+Table number 690
+{
+  any - 1 -> function.
+  here - 1 -> is
+}
+
+Table number 692
+{
+  It - 1 -> is
+}
+
+Table number 693
+{
+  amazing - 1 -> achievement
+}
+
+Table number 700
+{
+  A - 2 -> poet -> mathematician
+}
+
+Table number 703
+{
+  see - 1 -> what
+  lowest - 1 -> is
+}
+
+Table number 704
+{
+  well, - 1 -> maybe
+  full - 2 -> of -> of
+}
+
+Table number 707
+{
+  people. - 1 -> The
+}
+
+Table number 710
+{
+  become - 1 -> obvious
+}
+
+Table number 711
+{
+  problem - 1 -> can
+}
+
+Table number 714
+{
+  too - 1 -> obvious
+}
+
+Table number 716
+{
+  put - 1 -> food
+}
+
+Table number 718
+{
+  into - 1 -> a
+}
+
+Table number 719
+{
+  you - 5 -> know -> are -> did -> should -> are
+}
+
+Table number 722
+{
+  to - 8 -> look -> me -> discuss -> bookstores -> believe -> anything! -> taking -> barabanshchikov,
+}
+
+Table number 723
+{
+  them - 1 -> once
+}
+
+Table number 726
+{
+  with - 1 -> a
+}
+
+Table number 727
+{
+  Some - 1 -> things
+}
+
+Table number 732
+{
+  a - 12 -> monstrous -> person, -> function -> derivative, -> numerical -> mathematical -> collection -> mathematician -> difficult -> derivative! -> machine -> drummer,
+}
+
+Table number 734
+{
+  find - 1 -> it
+}
+
+Table number 739
+{
+  most - 1 -> obvious
+  then - 1 -> you
+  more - 2 -> obscure -> deceptive
+}
+
+Table number 745
+{
+  should - 3 -> walk, -> see -> do
+}
+
+Table number 747
+{
+  world - 1 -> is
+}
+
+Table number 753
+{
+  achievement - 1 -> of
+}
+
+Table number 755
+{
+  things - 3 -> that -> seem -> are
+}
+
+Table number 764
+{
+  rule - 1 -> of
+}
+
+Table number 765
+{
+  seem - 1 -> so
+}
+
+Table number 767
+{
+  from - 3 -> the -> above, -> below,
+}
+
+Table number 768
+{
+  mathematics: - 1 -> if
+}
+
+Table number 770
+{
+  do - 3 -> not -> not -> the
+}
+
+Table number 778
+{
+  your - 3 -> eyes. -> legs, -> mouth,
+}
+
+Table number 780
+{
+  first - 1 -> rule
+}
+
+Table number 783
+{
+  seems - 1 -> simple,
+}
+
+Table number 787
+{
+  evidence - 3 -> and -> that -> has
+}
+
+Table number 793
+{
+  end. - 1 -> People
+}
+
+Table number 795
+{
+  can - 3 -> argue -> be -> be
+}
+
+Table number 807
+{
+  conclusions - 1 -> that
+}
+
+Table number 811
+{
+  mediates - 1 -> between
+}
+
+Table number 814
+{
+  If - 1 -> we
+}
+
+Table number 815
+{
+  way, - 1 -> here
+  way. - 1 -> Evidence
+}
+
+Table number 816
+{
+  all: - 1 -> the
+}
+
+Table number 817
+{
+  mouth, - 1 -> do
+}
+
+Table number 818
+{
+  very - 3 -> beginning. -> often -> strange
+}
+
+Table number 830
+{
+  between - 1 -> spirit
+  see. - 1 -> And
+}
+
+Table number 832
+{
+  argue - 1 -> with
+}
+
+Table number 837
+{
+  an - 1 -> obvious
+}
+
+Table number 840
+{
+  least - 1 -> obvious
+}
+
+Table number 842
+{
+  food - 1 -> in
+}
+
+Table number 843
+{
+  instantly - 1 -> become
+}
+
+Table number 846
+{
+  others - 1 -> do
+  beat - 1 -> children,
+  facts. - 1 -> The
+}
+
+Table number 853
+{
+  will - 1 -> always
+}
+
+Table number 864
+{
+  know - 4 -> something, -> something, -> it -> that.
+}
+
+Table number 866
+{
+  look - 1 -> at
+}
+
+Table number 868
+{
+  often - 1 -> escapes
+}
+
+Table number 869
+{
+  what - 2 -> looks -> others
+}
+
+Table number 876
+{
+  of - 7 -> obvious -> humanity -> many -> evidence -> the -> mathematics: -> conclusions
+}
+
+Table number 877
+{
+  eyes. - 1 -> Once
+}
+
+Table number 878
+{
+  here! - 1 -> Mathematics
+  difficult - 2 -> to -> mathematical
+  again. - 1 -> The
+}
+
+Table number 889
+{
+  spirit - 1 -> and
+}
+
+Table number 913
+{
+  creations - 1 -> is
+}
+
+Table number 923
+{
+  The - 9 -> world -> obvious -> obvious -> light -> sky -> evidence -> highest -> first -> most
+}
+
+Table number 936
+{
+  has - 1 -> a
+}
+
+Table number 946
+{
+  one - 3 -> notices. -> notices. -> can
+}
+
+Table number 950
+{
+  be - 2 -> applied -> compared
+}
+
+Table number 952
+{
+  obvious - 10 -> fact. -> facts. -> things -> is -> and -> very -> that -> that. -> things -> way.
+}
+
+Table number 955
+{
+  the - 15 -> ability -> evidence -> hints -> very -> attention -> earth -> end. -> creations -> lowest -> same! -> least -> language -> way, -> result. -> obvious,
+}
+
+Table number 961
+{
+  not - 4 -> believe -> guess -> beat -> see.
+}
+
+Table number 962
+{
+  why - 1 -> we
+}
+
+Table number 963
+{
+  sky - 1 -> is
+}
+
+Table number 964
+{
+  Once - 1 -> you
+}
+
+Table number 966
+{
+  who - 1 -> find
+}
+
+Table number 974
+{
+  in - 6 -> your -> the -> what -> the -> c, -> any
+}
+
+Table number 975
+{
+  programmers - 1 -> in
+  guess - 1 -> everything
+}
+
+Table number 976
+{
+  language - 1 -> spoken
+}
+
+Table number 981
+{
+  same! - 1 -> Solving
+}
+
+Table number 990
+{
+  derivatives - 1 -> and
+}
+
+Table number 996
+{
+  once - 1 -> again.
+}
+
+Table number 997
+{
+  true. - 1 -> An
+}
+

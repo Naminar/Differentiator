@@ -1,0 +1,1527 @@
+Table number 8
+{
+  interspersed - 1 -> with
+}
+
+Table number 18
+{
+  twice. - 1 -> Derivatives
+}
+
+Table number 19
+{
+  Functions - 1 -> of
+}
+
+Table number 20
+{
+  already - 1 -> been
+}
+
+Table number 21
+{
+  lectures - 3 -> given -> given -> given
+  such - 2 -> that -> as
+}
+
+Table number 22
+{
+  finite - 1 -> angular
+}
+
+Table number 23
+{
+  prove - 1 -> to
+}
+
+Table number 24
+{
+  independent - 3 -> variable. -> variable -> work
+}
+
+Table number 36
+{
+  differentiable - 2 -> at -> function
+}
+
+Table number 37
+{
+  used - 1 -> in
+}
+
+Table number 38
+{
+  examples - 2 -> and -> illustrating
+}
+
+Table number 40
+{
+  touch - 1 -> on
+}
+
+Table number 42
+{
+  nonempty - 1 -> numerical
+}
+
+Table number 51
+{
+  detailed - 1 -> presentation
+  comments - 1 -> that
+  Moscow - 1 -> Institute
+}
+
+Table number 52
+{
+  condition - 1 -> of
+}
+
+Table number 55
+{
+  exposition - 1 -> of
+}
+
+Table number 57
+{
+  U(x$_0$) - 1 -> of
+}
+
+Table number 58
+{
+  until - 1 -> now
+}
+
+Table number 62
+{
+  Corresponding - 1 -> Member
+  if - 2 -> it -> x
+}
+
+Table number 67
+{
+  employee - 1 -> of
+}
+
+Table number 72
+{
+  well - 2 -> as -> as
+}
+
+Table number 82
+{
+  department, - 1 -> who
+}
+
+Table number 90
+{
+  them. - 1 -> If
+  it - 4 -> as -> is -> remains -> also
+}
+
+Table number 94
+{
+  differential - 2 -> df(x)=O(x)dx, -> calculus
+}
+
+Table number 96
+{
+  (1). - 1 -> We
+}
+
+Table number 103
+{
+  many - 2 -> years -> of
+}
+
+Table number 107
+{
+  than - 3 -> the -> other -> one
+}
+
+Table number 108
+{
+  g(x) - 1 -> =
+}
+
+Table number 109
+{
+  main - 3 -> sections -> text -> text.
+}
+
+Table number 111
+{
+  exercises. - 1 -> In
+}
+
+Table number 113
+{
+  universities - 1 -> with
+  Sciences. - 1 -> It
+  Sciences, - 1 -> Head
+}
+
+Table number 114
+{
+  does - 1 -> not
+  vicinity - 1 -> of
+}
+
+Table number 117
+{
+  content. - 1 -> Considering
+}
+
+Table number 120
+{
+  continue - 1 -> the
+}
+
+Table number 121
+{
+  f(x) - 2 -> is -> is
+  that - 9 -> the -> each -> the -> its -> the -> contributed -> unlike -> every -> there
+}
+
+Table number 122
+{
+  eight - 1 -> chapters
+}
+
+Table number 132
+{
+  definitions - 1 -> of
+}
+
+Table number 134
+{
+  x(0). - 1 -> The
+}
+
+Table number 140
+{
+  f(x$_0$) - 1 -> are
+}
+
+Table number 141
+{
+  derivative - 2 -> f(x$_0$) -> f$_0$
+}
+
+Table number 146
+{
+  After - 1 -> possible
+}
+
+Table number 150
+{
+  under - 1 -> consideration
+}
+
+Table number 156
+{
+  second - 1 -> differential,
+}
+
+Table number 157
+{
+  df(x)=O(x)dx, - 1 -> x$\in$U(x$_0$).
+}
+
+Table number 158
+{
+  reader. - 1 -> Along
+  technology. - 1 -> The
+}
+
+Table number 160
+{
+  exercises, - 1 -> the
+}
+
+Table number 165
+{
+  author - 4 -> professor -> thanks -> also -> to
+}
+
+Table number 167
+{
+  analysis. - 1
+  analysis, - 1 -> as
+}
+
+Table number 168
+{
+  twice - 1 -> differentiable
+}
+
+Table number 171
+{
+  we - 1 -> come
+}
+
+Table number 179
+{
+  at - 6 -> point -> point -> the -> $\MIPT$ -> $\MIPT$, -> least
+}
+
+Table number 180
+{
+  exists - 1 -> on
+}
+
+Table number 184
+{
+  sections - 2 -> of -> such
+  located - 1 -> closer
+}
+
+Table number 185
+{
+  indicated - 1 -> in
+}
+
+Table number 186
+{
+  diagram - 1 -> have
+}
+
+Table number 188
+{
+  formal - 1 -> arithmetic
+}
+
+Table number 190
+{
+  numbers - 1 -> $\mathbb{R}$.
+}
+
+Table number 193
+{
+  system - 1 -> under
+}
+
+Table number 195
+{
+  extensive - 1 -> content.
+}
+
+Table number 198
+{
+  lower - 1 -> faces
+  half-cross. - 1 -> After
+}
+
+Table number 199
+{
+  Mathematical - 1 -> Institute
+}
+
+Table number 201
+{
+  variable - 1 -> t.
+}
+
+Table number 212
+{
+  function - 7 -> at -> at -> than -> $\varphi$ -> f(x) -> y -> x
+}
+
+Table number 218
+{
+  topics. - 1 -> It
+}
+
+Table number 224
+{
+  apply - 1 -> theorem
+}
+
+Table number 225
+{
+  teachers - 1 -> conducting
+}
+
+Table number 230
+{
+  In - 1 -> the
+}
+
+Table number 233
+{
+  There - 1 -> is
+}
+
+Table number 238
+{
+  angular - 1 -> coefficient
+}
+
+Table number 239
+{
+  upper - 1 -> and
+}
+
+Table number 240
+{
+  studying - 1 -> mathematical
+  neighborhood - 1 -> U(x$_0$)
+}
+
+Table number 241
+{
+  majors - 1 -> studying
+}
+
+Table number 247
+{
+  as - 8 -> an -> opposed -> well -> A.V -> propositional -> an -> well -> for
+}
+
+Table number 250
+{
+  theory, - 2 -> it -> which
+}
+
+Table number 254
+{
+  exercise. - 2 -> Similarly, -> The
+}
+
+Table number 257
+{
+  propositional - 1 -> logic,
+}
+
+Table number 259
+{
+  chapters - 1 -> and
+  inclined - 1 -> tangent.
+}
+
+Table number 263
+{
+  reducing - 1 -> the
+}
+
+Table number 265
+{
+  there - 1 -> is
+}
+
+Table number 270
+{
+  predicate - 1 -> calculus,
+  fairly - 1 -> complete
+}
+
+Table number 273
+{
+  $\varphi$ - 2 -> if -> in
+}
+
+Table number 275
+{
+  presentation - 2 -> of -> of
+}
+
+Table number 286
+{
+  Russian - 2 -> Academy -> Academy
+}
+
+Table number 288
+{
+  by - 3 -> the -> virtue -> the
+}
+
+Table number 290
+{
+  functional - 1 -> series
+}
+
+Table number 297
+{
+  contributed - 2 -> to -> to
+}
+
+Table number 299
+{
+  series - 1 -> and
+}
+
+Table number 303
+{
+  served - 1 -> until
+}
+
+Table number 309
+{
+  consideration - 1 -> by
+}
+
+Table number 310
+{
+  faces - 1 -> in
+}
+
+Table number 311
+{
+  however, - 1 -> that
+}
+
+Table number 313
+{
+  integral - 1 -> calculus
+}
+
+Table number 325
+{
+  point - 6 -> x$_0$ -> x(0). -> is -> x$_0$, -> x$_0$, -> for
+}
+
+Table number 328
+{
+  straight - 1 -> lines.
+}
+
+Table number 330
+{
+  conciseness - 1 -> of
+  shows - 1 -> that
+}
+
+Table number 331
+{
+  equivalent - 1 -> conditions
+}
+
+Table number 336
+{
+  mathematics - 1 -> and
+}
+
+Table number 339
+{
+  existence - 1 -> of
+}
+
+Table number 354
+{
+  theoretical - 1 -> material
+}
+
+Table number 365
+{
+  x. - 1 -> The
+}
+
+Table number 367
+{
+  program - 1 -> of
+}
+
+Table number 370
+{
+  modern - 1 -> mathematical
+  closer - 1 -> to
+}
+
+Table number 372
+{
+  large - 2 -> number -> number
+}
+
+Table number 374
+{
+  chapter. - 1 -> It
+  logic.The - 1 -> presentation
+  several - 1 -> variables,
+}
+
+Table number 375
+{
+  thanks - 1 -> professors
+}
+
+Table number 376
+{
+  special - 1 -> case
+}
+
+Table number 380
+{
+  lines. - 1 -> The
+}
+
+Table number 381
+{
+  book, - 1 -> which
+}
+
+Table number 382
+{
+  conditions - 1 -> and
+}
+
+Table number 388
+{
+  manual - 2 -> on -> consists
+}
+
+Table number 392
+{
+  x$_0$, - 2 -> then -> and
+}
+
+Table number 393
+{
+  limits, - 1 -> differential
+}
+
+Table number 396
+{
+  numerical - 2 -> and -> set
+}
+
+Table number 402
+{
+  reader - 1 -> as
+  complete - 2 -> exposition -> manual
+  provides - 1 -> an
+}
+
+Table number 412
+{
+  which - 3 -> are -> has -> are
+}
+
+Table number 414
+{
+  material - 2 -> in -> have
+}
+
+Table number 415
+{
+  attached - 1 -> to
+}
+
+Table number 418
+{
+  unlike - 1 -> book
+}
+
+Table number 419
+{
+  We - 2 -> show -> show
+  previously - 1 -> considered
+}
+
+Table number 425
+{
+  manuscript - 2 -> and -> for
+}
+
+Table number 431
+{
+  specialties - 1 -> of
+}
+
+Table number 432
+{
+  valuable - 1 -> comments
+}
+
+Table number 433
+{
+  years - 1 -> at
+}
+
+Table number 434
+{
+  intuitionistic - 1 -> and
+}
+
+Table number 442
+{
+  constructive - 1 -> directions
+}
+
+Table number 443
+{
+  theorem - 6 -> shows -> (1) -> is -> cauchy -> (2), -> (1).
+}
+
+Table number 449
+{
+  calculus - 2 -> of -> of
+}
+
+Table number 450
+{
+  logic. - 1 -> It
+}
+
+Table number 454
+{
+  conducting - 1 -> classes
+}
+
+Table number 455
+{
+  2. - 1 -> Let's
+}
+
+Table number 466
+{
+  established, - 1 -> the
+}
+
+Table number 475
+{
+  coefficient - 1 -> f$_0$
+}
+
+Table number 484
+{
+  essentially - 1 -> does
+}
+
+Table number 485
+{
+  illustrating - 1 -> the
+  number - 3 -> of -> of -> of
+}
+
+Table number 487
+{
+  tangent. - 1 -> Prove
+}
+
+Table number 490
+{
+  basis - 2 -> of -> of
+}
+
+Table number 491
+{
+  variable. - 1 -> We
+}
+
+Table number 494
+{
+  mathematical - 6 -> and -> logic -> logic. -> logic.The -> analysis, -> analysis.
+}
+
+Table number 496
+{
+  logic, - 1 -> predicate
+}
+
+Table number 505
+{
+  results, - 1 -> which
+}
+
+Table number 506
+{
+  logical - 1 -> consequences
+}
+
+Table number 512
+{
+  intended - 2 -> for -> for
+}
+
+Table number 523
+{
+  1st - 1 -> year
+}
+
+Table number 524
+{
+  orders - 1 -> differentiable
+}
+
+Table number 530
+{
+  absent - 1 -> from
+}
+
+Table number 536
+{
+  Considering - 1 -> theorem
+}
+
+Table number 537
+{
+  variable, - 1 -> numerical
+}
+
+Table number 538
+{
+  expression - 1 -> of
+}
+
+Table number 539
+{
+  Academy - 2 -> of -> of
+}
+
+Table number 546
+{
+  Two - 1 -> of
+  Head - 1 -> of
+}
+
+Table number 550
+{
+  Steklov - 1 -> Mathematical
+}
+
+Table number 551
+{
+  $\MIPT$. - 1 -> A
+}
+
+Table number 552
+{
+  This, - 1 -> along
+  t. - 1 -> Lagrange's
+  are - 4 -> equivalent -> absent -> then -> proposed
+}
+
+Table number 563
+{
+  argument - 1 -> x
+}
+
+Table number 570
+{
+  S.A - 1 -> Telyakovsky,
+}
+
+Table number 572
+{
+  proposed - 1 -> to
+  no - 1 -> more
+  on - 6 -> some -> the -> the -> the -> mathematical -> the
+}
+
+Table number 576
+{
+  its - 5 -> derivative -> differential -> argument -> improvement, -> applications
+}
+
+Table number 578
+{
+  two - 2 -> theorems -> are
+}
+
+Table number 582
+{
+  contains - 2 -> the -> a
+}
+
+Table number 594
+{
+  Polozov, - 1 -> an
+}
+
+Table number 597
+{
+  Golubov - 1 -> and
+}
+
+Table number 600
+{
+  engineering - 1 -> physics
+  advanced - 1 -> training
+}
+
+Table number 607
+{
+  given - 3 -> for -> to -> by
+}
+
+Table number 612
+{
+  segments - 1 -> of
+  also - 2 -> covers -> brought
+}
+
+Table number 622
+{
+  real - 1 -> numbers
+}
+
+Table number 624
+{
+  analyzed. - 1 -> A
+}
+
+Table number 625
+{
+  expanded - 1 -> set
+}
+
+Table number 627
+{
+  professor - 1 -> at
+}
+
+Table number 631
+{
+  $\MIPT$, - 1 -> Corresponding
+}
+
+Table number 632
+{
+  students - 4 -> of -> of -> of -> of
+}
+
+Table number 633
+{
+  list - 1 -> of
+}
+
+Table number 638
+{
+  read - 1 -> the
+}
+
+Table number 640
+{
+  Telyakovsky, - 1 -> who
+}
+
+Table number 641
+{
+  consists - 1 -> of
+}
+
+Table number 649
+{
+  work - 2 -> of -> is
+}
+
+Table number 651
+{
+  case - 2 -> of -> of
+}
+
+Table number 659
+{
+  is - 19 -> stronger -> located -> often -> set -> such -> true -> an -> twice -> twice. -> a -> written -> intended -> written -> clear -> interspersed -> at -> no -> attached -> intended
+}
+
+Table number 666
+{
+  model - 1 -> theory
+  theorems - 1 -> show
+}
+
+Table number 671
+{
+  algorithm - 1 -> theory,
+}
+
+Table number 673
+{
+  x$_0$ - 2 -> and -> is
+}
+
+Table number 674
+{
+  x$\in$U(x$_0$). - 1 -> The
+}
+
+Table number 675
+{
+  and - 23 -> the -> that -> its -> differentials -> contains -> several -> functional -> other -> engineering-physical -> technology. -> S.A -> made -> fairly -> many -> algorithm -> axiomatic -> constructive -> concise. -> exercises. -> lower -> contains -> mathematics -> engineering
+}
+
+Table number 676
+{
+  $\mathbb{R}$. - 1 -> There
+}
+
+Table number 682
+{
+  logic - 1 -> and
+}
+
+Table number 684
+{
+  1 - 1 -> is
+}
+
+Table number 685
+{
+  Member - 1 -> of
+  2 - 1 -> as
+}
+
+Table number 692
+{
+  It - 5 -> is -> is -> provides -> should -> is
+  f(x), - 1 -> $\varphi$
+  additional - 1 -> definitions
+}
+
+Table number 694
+{
+  possible - 1 -> additional
+}
+
+Table number 696
+{
+  directions - 1 -> of
+  = - 5 -> 1 -> 2. -> f(x) -> x(t) -> x.
+}
+
+Table number 697
+{
+  exercises - 1 -> for
+  > - 1 -> 2
+}
+
+Table number 700
+{
+  A - 2 -> large -> list
+}
+
+Table number 701
+{
+  set - 4 -> only -> theory, -> has -> of
+}
+
+Table number 703
+{
+  hard - 1 -> work
+}
+
+Table number 705
+{
+  Lagrange's - 1 -> theorem
+}
+
+Table number 707
+{
+  graph - 1 -> of
+}
+
+Table number 713
+{
+  out - 1 -> some
+}
+
+Table number 714
+{
+  Department - 1 -> of
+}
+
+Table number 717
+{
+  arithmetic - 1 -> and
+}
+
+Table number 719
+{
+  you - 1 -> can
+}
+
+Table number 722
+{
+  to - 13 -> the -> apply -> them. -> n -> the -> first-year -> its -> reducing -> the -> prove -> the -> first-year -> each
+}
+
+Table number 723
+{
+  them - 1 -> is
+}
+
+Table number 726
+{
+  with - 6 -> a -> advanced -> sections -> a -> the -> a
+}
+
+Table number 729
+{
+  course - 1 -> of
+}
+
+Table number 732
+{
+  $\MIPT$ - 2 -> and -> by
+  a - 11 -> function -> derivative -> finite -> half-cross. -> function -> point -> special -> number -> large -> very -> detailed
+}
+
+Table number 734
+{
+  find - 1 -> the
+}
+
+Table number 736
+{
+  differential, - 1 -> assuming
+}
+
+Table number 739
+{
+  more - 1 -> than
+  most - 1 -> complete
+  then - 2 -> its -> used
+}
+
+Table number 742
+{
+  virtue - 1 -> of
+}
+
+Table number 745
+{
+  common - 2 -> point -> point.
+  should - 1 -> be
+  n - 3 -> > -> = -> =
+}
+
+Table number 748
+{
+  Along - 1 -> with
+  engineering-physical - 1 -> specialties
+}
+
+Table number 750
+{
+  calculus, - 1 -> formal
+  formula - 1 -> for
+}
+
+Table number 754
+{
+  Institute - 2 -> of -> of
+}
+
+Table number 755
+{
+  x - 3 -> is -> is -> =
+}
+
+Table number 756
+{
+  y - 1 -> =
+}
+
+Table number 758
+{
+  text - 1 -> is
+}
+
+Table number 759
+{
+  some - 3 -> neighborhood -> independent -> results,
+}
+
+Table number 762
+{
+  differentiability - 1 -> of
+}
+
+Table number 766
+{
+  concise. - 1 -> The
+}
+
+Table number 767
+{
+  from - 1 -> the
+}
+
+Table number 768
+{
+  professors - 1 -> B.I
+  mathematics. - 1 -> This
+}
+
+Table number 769
+{
+  proved - 1 -> theorem
+}
+
+Table number 771
+{
+  true - 1 -> only
+}
+
+Table number 778
+{
+  took - 1 -> on
+}
+
+Table number 779
+{
+  each - 2 -> of -> chapter.
+}
+
+Table number 780
+{
+  along - 1 -> with
+  opposed - 1 -> to
+}
+
+Table number 781
+{
+  accessible - 1 -> and
+}
+
+Table number 782
+{
+  (1) - 1 -> to
+}
+
+Table number 789
+{
+  covers - 1 -> model
+}
+
+Table number 791
+{
+  cauchy - 1 -> when
+}
+
+Table number 793
+{
+  considered - 1 -> tangent
+}
+
+Table number 795
+{
+  can - 1 -> continue
+}
+
+Table number 799
+{
+  Similarly, - 1 -> you
+}
+
+Table number 806
+{
+  author's - 1 -> lectures
+}
+
+Table number 812
+{
+  textbook - 2 -> corresponds -> is
+}
+
+Table number 813
+{
+  year - 1 -> $\MIPT$
+}
+
+Table number 814
+{
+  If - 1 -> a
+}
+
+Table number 815
+{
+  way, - 1 -> it
+}
+
+Table number 818
+{
+  very - 1 -> extensive
+}
+
+Table number 823
+{
+  This - 1 -> textbook
+  written - 2 -> on -> on
+}
+
+Table number 827
+{
+  Theory - 1 -> of
+}
+
+Table number 837
+{
+  made - 1 -> a
+  an - 6 -> inclined -> exercise. -> independent -> employee -> accessible -> exercise.
+}
+
+Table number 839
+{
+  both - 1 -> upper
+  come - 1 -> to
+  f$_0$ - 2 -> x$_0$ -> exists
+}
+
+Table number 840
+{
+  have - 2 -> already -> been
+  least - 1 -> one
+}
+
+Table number 842
+{
+  preparing - 1 -> the
+}
+
+Table number 843
+{
+  conclusion - 1 -> that
+}
+
+Table number 845
+{
+  Derivatives - 1 -> and
+}
+
+Table number 849
+{
+  B.I - 1 -> Golubov
+  called - 1 -> an
+  last - 2 -> two -> formula
+}
+
+Table number 850
+{
+  classes - 1 -> in
+  continuity - 1 -> condition
+}
+
+Table number 852
+{
+  novice - 1 -> reader.
+}
+
+Table number 855
+{
+  this - 3 -> way, -> in -> book
+}
+
+Table number 856
+{
+  book - 4 -> x-series, -> essentially -> is -> with
+  physical - 1 -> mathematical
+}
+
+Table number 859
+{
+  size - 1 -> of
+  theory - 2 -> of -> and
+  tangent - 3 -> in -> point -> with
+}
+
+Table number 862
+{
+  only - 3 -> in -> to -> if
+}
+
+Table number 863
+{
+  (2), - 1 -> we
+}
+
+Table number 866
+{
+  show - 3 -> that -> this -> that
+}
+
+Table number 868
+{
+  often - 1 -> called
+}
+
+Table number 869
+{
+  clear - 1 -> and
+  A.V - 1 -> Polozov,
+}
+
+Table number 870
+{
+  presentation, - 1 -> contributed
+}
+
+Table number 871
+{
+  x-series, - 1 -> this
+}
+
+Table number 876
+{
+  of - 54 -> a -> a -> them -> the -> the -> the -> the -> a -> n -> the -> higher -> the -> the -> limits, -> functions -> one -> functions -> one -> lectures -> the -> Sciences, -> the -> Theory -> Functions -> the -> the -> Sciences. -> physical -> universities -> the -> the -> physics -> valuable -> the -> preparing -> the -> modern -> its -> mathematical -> the -> examples -> the -> the -> real -> the -> theorem -> the -> eight -> the -> lectures -> $\MIPT$. -> examples -> exercises -> physics
+}
+
+Table number 880
+{
+  Let's - 1 -> find
+}
+
+Table number 886
+{
+  stronger - 1 -> than
+}
+
+Table number 891
+{
+  physics - 3 -> and -> and -> majors
+}
+
+Table number 902
+{
+  axiomatic - 1 -> set
+  other - 3 -> straight -> topics. -> two
+}
+
+Table number 903
+{
+  x(t) - 1 -> some
+}
+
+Table number 905
+{
+  brought - 1 -> out
+}
+
+Table number 907
+{
+  improvement, - 1 -> as
+}
+
+Table number 915
+{
+  noted, - 1 -> however,
+}
+
+Table number 923
+{
+  higher - 1 -> orders
+  The - 8 -> last -> proved -> previously -> last -> textbook -> author -> main -> manual
+}
+
+Table number 926
+{
+  differentials - 1 -> of
+}
+
+Table number 932
+{
+  variables, - 1 -> integral
+}
+
+Table number 936
+{
+  has - 2 -> served -> both
+}
+
+Table number 946
+{
+  one - 4 -> and -> variable, -> common -> common
+}
+
+Table number 947
+{
+  for - 9 -> n -> many -> students -> publication. -> the -> the -> independent -> students -> teachers
+}
+
+Table number 949
+{
+  point. - 1 -> Two
+}
+
+Table number 950
+{
+  be - 1 -> noted,
+}
+
+Table number 955
+{
+  the - 58 -> differentiability -> existence -> continuity -> function -> tangent -> vicinity -> tangent -> graph -> function -> function -> functions -> case -> expression -> second -> function -> point -> theorem -> program -> 1st -> theory -> basis -> author -> Russian -> Department -> Steklov -> Russian -> basis -> author's -> Moscow -> manuscript -> department, -> hard -> manuscript -> main -> novice -> book, -> most -> intuitionistic -> material -> book -> exercises, -> author -> main -> conciseness -> presentation, -> size -> book -> conclusion -> expanded -> segments -> system -> logical -> diagram -> other -> reader -> course -> author -> theoretical
+}
+
+Table number 956
+{
+  corresponds - 1 -> to
+}
+
+Table number 961
+{
+  not - 1 -> touch
+}
+
+Table number 964
+{
+  now - 1 -> the
+}
+
+Table number 965
+{
+  functions - 3 -> f(x), -> of -> of
+}
+
+Table number 966
+{
+  who - 2 -> read -> took
+}
+
+Table number 967
+{
+  text. - 1 -> This,
+  applications - 1 -> for
+}
+
+Table number 968
+{
+  first-year - 2 -> students -> students
+}
+
+Table number 971
+{
+  publication. - 1 -> It
+}
+
+Table number 974
+{
+  been - 2 -> established, -> analyzed.
+  in - 10 -> the -> a -> this -> the -> mathematics. -> the -> the -> the -> the -> mathematical
+}
+
+Table number 976
+{
+  every - 1 -> nonempty
+}
+
+Table number 978
+{
+  training - 1 -> in
+}
+
+Table number 980
+{
+  consequences - 1 -> indicated
+}
+
+Table number 982
+{
+  remains - 1 -> only
+}
+
+Table number 990
+{
+  assuming - 1 -> that
+}
+
+Table number 991
+{
+  Prove - 1 -> it
+}
+
+Table number 998
+{
+  when - 1 -> g(x)
+}
+
