@@ -589,6 +589,330 @@ Node* simple_node(Node* tested_node)
                                           *
                                           tested_node->left_son->data.i_num;
 
+                free(tested_node->right_son);
+                free(tested_node->left_son);
+
+                tested_node->left_son   = nullptr;
+                tested_node->right_son  = nullptr;
+            }
+            else if ((tested_node->right_son->type == INT
+                     ||
+                     tested_node->left_son->type == INT)
+                        &&
+                          (tested_node->right_son->type == DOT
+                          ||
+                          tested_node->left_son->type == DOT))
+            {
+                tested_node->type = DOT;
+
+                if (tested_node->left_son->type == DOT)
+                {
+                    tested_node->data.d_num = tested_node->right_son->data.i_num
+                                              *
+                                              tested_node->left_son->data.d_num;
+
+                }
+                else
+                {
+                    tested_node->data.d_num = tested_node->right_son->data.d_num
+                                              *
+                                              tested_node->left_son->data.i_num;
+                }
+
+                free(tested_node->right_son);
+                free(tested_node->left_son);
+
+                tested_node->left_son   = nullptr;
+                tested_node->right_son  = nullptr;
+            }
+            else if (tested_node->right_son->type == INT && tested_node->right_son->data.i_num == 1)
+            {
+                optimized_node = tested_node->left_son;
+
+                free(tested_node);
+
+                free(tested_node->right_son);
+
+            }
+            else if (tested_node->right_son->type == INT && tested_node->right_son->data.i_num == 0)
+            {
+                tested_node->data.i_num =   0;
+                tested_node->type       = INT;
+                tested_node->cell[0]    = '0';
+
+                tree_destruct(tested_node->left_son);
+
+                tree_destruct(tested_node->right_son);
+
+                tested_node->left_son   = nullptr;
+                tested_node->right_son  = nullptr;
+
+            }
+            else if (tested_node->left_son->type == INT && tested_node->left_son->data.i_num == 1)
+            {
+                optimized_node = tested_node->right_son;
+
+                free(tested_node);
+
+                free(tested_node->left_son);
+            }
+            else if (tested_node->left_son->type == INT && tested_node->left_son->data.i_num == 0)
+            {
+                tested_node->data.i_num =   0;
+                tested_node->type       = INT;
+                tested_node->cell[0]    = '0';
+
+                tree_destruct(tested_node->left_son);
+
+                tree_destruct(tested_node->right_son);
+
+                tested_node->left_son   = nullptr;
+                tested_node->right_son  = nullptr;
+            }
+
+            break;
+        }
+
+        case PLUS:
+        {
+            if (tested_node->right_son->type == INT
+                &&
+                tested_node->left_son->type == INT
+               )
+            {
+                tested_node->type = INT;
+
+                tested_node->data.i_num = tested_node->right_son->data.i_num
+                                          +
+                                          tested_node->left_son->data.i_num;
+
+                free(tested_node->right_son);
+                free(tested_node->left_son);
+
+                tested_node->left_son   = nullptr;
+                tested_node->right_son  = nullptr;
+            }
+            else if ((tested_node->right_son->type == INT
+                     ||
+                     tested_node->left_son->type == INT)
+                        &&
+                          (tested_node->right_son->type == DOT
+                          ||
+                          tested_node->left_son->type == DOT))
+            {
+                tested_node->type = DOT;
+
+                if (tested_node->left_son->type == DOT)
+                {
+                    tested_node->data.d_num = tested_node->right_son->data.i_num
+                                              +
+                                              tested_node->left_son->data.d_num;
+
+                }
+                else
+                {
+                    tested_node->data.d_num = tested_node->right_son->data.d_num
+                                              +
+                                              tested_node->left_son->data.i_num;
+
+                }
+
+                free(tested_node->right_son);
+                free(tested_node->left_son);
+
+                tested_node->left_son   = nullptr;
+                tested_node->right_son  = nullptr;
+            }
+            else if (tested_node->right_son->type == INT && tested_node->right_son->data.i_num == 0)
+            {
+                optimized_node = tested_node->left_son;
+
+                free(tested_node);
+
+                free(tested_node->right_son);
+            }
+            else if (tested_node->left_son->type == INT && tested_node->left_son->data.i_num == 0)
+            {
+                optimized_node = tested_node->right_son;
+
+                free(tested_node);
+
+                free(tested_node->left_son);
+            }
+
+            break;
+        }
+
+        case DIV:
+        {
+            if (tested_node->right_son->type == INT
+                &&
+                tested_node->left_son->type == INT
+               )
+            {
+                tested_node->type = INT;
+
+                tested_node->data.i_num = tested_node->left_son->data.i_num
+                                          /
+                                          tested_node->right_son->data.i_num;
+
+                free(tested_node->right_son);
+                free(tested_node->left_son);
+
+                tested_node->left_son   = nullptr;
+                tested_node->right_son  = nullptr;
+            }
+            else if ((tested_node->right_son->type == INT
+                     ||
+                     tested_node->left_son->type == INT)
+                        &&
+                          (tested_node->right_son->type == DOT
+                          ||
+                          tested_node->left_son->type == DOT))
+            {
+                tested_node->type = DOT;
+
+                if (tested_node->left_son->type == DOT)
+                {
+                    tested_node->data.d_num = tested_node->left_son->data.d_num
+                                              /
+                                              tested_node->right_son->data.i_num;
+                }
+                else
+                {
+                    tested_node->data.d_num = tested_node->left_son->data.d_num
+                                              /
+                                              tested_node->right_son->data.i_num;
+                }
+
+                free(tested_node->right_son);
+                free(tested_node->left_son);
+
+                tested_node->left_son   = nullptr;
+                tested_node->right_son  = nullptr;
+            }
+            else if (tested_node->right_son->type == INT && tested_node->right_son->data.i_num == 1)
+            {
+                optimized_node = tested_node->left_son;
+
+                free(tested_node);
+
+                free(tested_node->right_son);
+            }
+
+            break;
+        }
+
+        case DEGREE:
+        {
+            if (tested_node->left_son->type == INT && tested_node->left_son->data.i_num == 1)
+            {
+                optimized_node = tested_node->left_son;
+
+                free(tested_node);
+
+                free(tested_node->right_son);
+            }
+            else if (tested_node->right_son->type == INT && tested_node->right_son->data.i_num == 1)
+            {
+                optimized_node = tested_node->left_son;
+
+                free(tested_node);
+
+                free(tested_node->right_son);
+            }
+
+            break;
+        }
+
+        case MINUS:
+        {
+            if (tested_node->right_son->type == INT
+                &&
+                tested_node->left_son->type == INT
+               )
+            {
+                tested_node->type = INT;
+
+                tested_node->data.i_num = tested_node->left_son->data.i_num
+                                          -
+                                          tested_node->right_son->data.i_num;
+
+                free(tested_node->right_son);
+                free(tested_node->left_son);
+
+                tested_node->left_son   = nullptr;
+                tested_node->right_son  = nullptr;
+            }
+            else if ((tested_node->right_son->type == INT
+                     ||
+                     tested_node->left_son->type == INT)
+                        &&
+                          (tested_node->right_son->type == DOT
+                          ||
+                          tested_node->left_son->type == DOT))
+            {
+                tested_node->type = DOT;
+
+                if (tested_node->left_son->type == DOT)
+                {
+                    tested_node->data.d_num = tested_node->left_son->data.d_num
+                                              -
+                                              tested_node->right_son->data.i_num;
+                }
+                else
+                {
+                    tested_node->data.d_num = tested_node->left_son->data.d_num
+                                              -
+                                              tested_node->right_son->data.i_num;
+                }
+
+                free(tested_node->right_son);
+                free(tested_node->left_son);
+
+                tested_node->left_son   = nullptr;
+                tested_node->right_son  = nullptr;
+            }
+            else if (tested_node->right_son->type == INT && tested_node->right_son->data.i_num == 0)
+            {
+                optimized_node = tested_node->left_son;
+
+                free(tested_node);
+
+                free(tested_node->right_son);
+            }
+
+            break;
+        }
+    }
+
+    return optimized_node;
+}
+
+
+/*
+Node* simple_node(Node* tested_node)
+{
+    if (!tested_node)
+        return nullptr;
+
+    Node* optimized_node = tested_node;
+
+    switch (tested_node->data.stat)
+    {
+        case MUL:
+        {
+            if (tested_node->right_son->type == INT
+                &&
+                tested_node->left_son->type == INT
+               )
+            {
+                tested_node->type = INT;
+
+                tested_node->data.i_num = tested_node->right_son->data.i_num
+                                          *
+                                          tested_node->left_son->data.i_num;
+
                 tested_node->left_son   = nullptr;
                 tested_node->right_son  = nullptr;
 
@@ -888,6 +1212,7 @@ Node* simple_node(Node* tested_node)
 
     return optimized_node;
 }
+*/
 
 void hash_init(Node* root, HashTree* hash_list, HashTree* hash_tree)
 {
