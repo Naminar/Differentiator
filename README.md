@@ -2,15 +2,15 @@
 **_"Wherever you poke, it's all rubbish... Don't just rub it, otherwise we won't collect the ends later."_**
 
 ## Content:
-- [How to use it](#the-structure-of-the-tree)
-- [Functions & operands](#)
-- [WARNING](#)
-- [Result](#)
-- [Generating an article](#)
-	- [Generating phrases]() 
-	- [Word usage statistics]()
-	- [Creating LaTeX file]()
-	- [Simplified expression]()
+- [How to use it](#how-to-use-it)
+- [Functions & operands](#functions--operands)
+- [WARNING](#warning)
+- [Result](#result)
+- [Generating an article](#generating-an-article)
+	- [Generating phrases](#generating-phrases) 
+	- [Word usage statistics](#word-usage-statistics)
+	- [Creating LaTeX file](#creating-latex-file)
+	- [Simplified expression](#simplified-expression)
 
 ## How to use it
 Inside the program you can choose the way (from console or file) to enter your function.
@@ -56,6 +56,9 @@ After use, you can download a latex file to convert it into a small article. Mar
 
 ### Generating phrases
 The construction of Markov chains is used to construct the text. To do this, it is necessary to give examples of texts and phrases in order to use the collected statistics on the use of words and expressions in the future.
+
+- - -
+
 ### Word usage statistics
 **A proprietary hash function is used for distribution to storage cells.**
 
@@ -65,8 +68,14 @@ The construction of Markov chains is used to construct the text. To do this, it 
 &emsp;``discuss - 1 -> them``\
 &emsp;``are - 4 -> amazed -> very -> doing -> solved``\
 ``}``
+
+- - -
+
 ### Creating LaTeX file
 After collecting statistics and processing the function, a file is created that can be found in the workspace.
+
+- - -
+
 ### Simplified expression
 **For aesthetic appeal, the expression is simplified.**
 
